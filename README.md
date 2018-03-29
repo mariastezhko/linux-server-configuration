@@ -6,11 +6,14 @@
 
 34.218.30.13
 
+
 ## SSH port
 2200
 
-## URL
 
+## URL to the hosted web application
+
+http://ec2-34-218-30-13.us-west-2.compute.amazonaws.com/
 
 
 ## Installed software and configuration changes
@@ -23,4 +26,10 @@
 6. Installed PostgreSQL.
 7. Configured PostgreSQL so that remote connections are not allowed.
 8. Installed git.
- 
+9. Installed Flask
+
+
+## Third-party resources used to complete this project
+
+1. Udacity forum
+2. stackoverflow.com
